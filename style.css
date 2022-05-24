@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+nav ul {
+
+    list-style: none;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+}
+
+nav ul li {
+    padding: 10px;
+    background-color: tomato;
+    color: white;
+    margin: 10px;
+
+
+}
+
+nav ul li:hover {
+    background-color: cyan;
+    color: rgb(68, 68, 68);
+
+}
+
+.intro {
+    display: flex;
+
+}
+
+
+.half-width {
+    width: 50%;
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.half-width2 {
+    width: 50%;
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#text {
+    margin-top: 200px;
+    margin-left: 100px;
+
+}
+
+#text2 {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.fa-solid {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+#btn {
+    padding: 15px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+    border-style: none;
+    margin-top: 10px;
+
+}
+
+button a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.half-width2 img {
+    width: 80%;
+
+}
+
+#img2 {
+    margin-left: 40px;
+}
+
+#fname {
+
+    font-size: 3.5rem;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(47, 42, 65);
+}
+
+#about {
+    font-size: 3.5rem;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(47, 42, 65);
+}
+
+#cname {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3.5rem;
+    color: tomato;
+
+}
+
+.icon {
+    font-size: 30px;
+    color: rgb(126, 125, 163);
+    text-align: center;
+}
+
+footer {
+    margin-top: 15px;
+}
+
+.icon img {
+    margin-top: 15px;
+    width: 40px;
+    height: 40px;
+}
